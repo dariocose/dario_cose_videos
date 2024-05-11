@@ -4,7 +4,6 @@ Published on 15/04/2024
 
 ![](img/cover.jpg)
 
-###Lista dei contenuti
-- bau 
-- bau
-- bau
+- power_supply_schematics.pdf (schematics and BOM)
+- [Stl](https://www.thingiverse.com/thing:6560209) 
+- [Board](https://s.click.aliexpress.com/e/_DDwHBqp) 
