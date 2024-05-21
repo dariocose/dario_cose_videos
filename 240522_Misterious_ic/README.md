@@ -2,5 +2,11 @@
 Published on 22/05/2024
 [Youtube url](https://youtu.be/-nbtxf4mtnU)
 
-- asd
-- asd
+- YX8253 Datasheet (Translation) || [Original file](http://www.szyucan.com/upfile/ic21pdf/YX8253.pdf) || [IC](https://s.click.aliexpress.com/e/_DcJYMIj)
+- YX8233 Datasheet (Translation) || [Original file](https://www.chipli.cn/uploadfile/2016/0908/20160908062249632.pdf) || [IC](https://s.click.aliexpress.com/e/_DB6Szen)
+
+
+
+
+
+
